@@ -1,0 +1,692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob",
+				"objsize"
+			],
+			[
+				"KSlabSm",
+				"KSlabSmallBufCtl"
+			],
+			[
+				"KSl",
+				"KSlabBuf8"
+			],
+			[
+				"PamM",
+				"PamMODULE"
+			],
+			[
+				"kmallo",
+				"kmalloccaches"
+			],
+			[
+				"kmall",
+				"kmalloccaches"
+			],
+			[
+				"Pac",
+				"PaCmdMerge"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 14,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": ".gitignore"
+			}
+		},
+		{
+			"file": "seed.zig",
+			"settings":
+			{
+				"buffer_size": 2722,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "const builtin = @import(\"builtin\");"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/graham/Documents/code/seed"
+	],
+	"file_history":
+	[
+		"/home/graham/Documents/code/seed/hello.zig",
+		"/home/graham/Documents/code/seed/linker.ld",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/slab_test.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/slab.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/main.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/multiboot.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/pamap.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/dat.h",
+		"/home/graham/Documents/code/harvey/harvey/aarch64/include/u.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/portdat.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/qmalloc.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/taslock.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/mem.h",
+		"/home/graham/Documents/code/harvey/harvey/amd64/include/u.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/portfns.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/lib.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/fault.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/libmemdraw/draw.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/devcons.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/fns.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/core.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/cache.c",
+		"/home/graham/Documents/code/harvey/harvey/rc/bin/cpurc",
+		"/home/graham/Documents/code/harvey/harvey/rc/bin/urootrc",
+		"/home/graham/Documents/code/harvey/harvey/cfg/pxe/tftpboot/pxelinux.cfg/default",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/devvga.c",
+		"/home/graham/Documents/code/harvey/u-root/cmds/exp/vboot/vboot.go",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/u-root.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/physalloc.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/memory.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/segment.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/devramfs.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/mmu.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/page.c",
+		"/home/graham/Documents/code/harvey/harvey/clean.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/tcklock.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/print.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/libc/fmt/fmtquote.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/libc/fmt/fmt.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/archamd64.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/port.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/cga.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/386/uarti8250.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/devuart.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/slab.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/l64v.S",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/devacpi.c",
+		"/home/graham/.profile",
+		"/home/graham/.bashrc",
+		"/home/graham/Documents/code/harvey/harvey/util/GO9PUROOT",
+		"/home/graham/Documents/code/harvey/harvey/amd64/include/ureg.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/trap.c",
+		"/home/graham/Documents/code/harvey/harvey/.gitignore",
+		"/home/graham/Documents/code/harvey/harvey.sublime-project",
+		"/home/graham/Documents/code/harvey/harvey/386/include/ureg.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/kernel.ld",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/vsvm.c",
+		"/home/graham/Documents/code/harvey/harvey/rc/lib/rcmain",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/cmd/init.c",
+		"/home/graham/Documents/code/harvey/u-root/cmds/core/ls/ls.go",
+		"/home/graham/Documents/code/harvey/u-root/cmds/core/ls/ls_test.go",
+		"/home/graham/.config/sublime-text-3/Packages/User/Gofmt.sublime-settings",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/gocmds.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/allbuild.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/build.json",
+		"/home/graham/Documents/code/harvey/harvey/u-root.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/u-root.json",
+		"/home/graham/Documents/code/harvey/harvey/util/GO9PCPU",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/riscv/dat.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/map.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/libc/port/memmove.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/amd64.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/devarch.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/include/libc.h",
+		"/home/graham/Documents/code/harvey/harvey.sublime-workspace",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/cmd/ls.c",
+		"/home/graham/Documents/code/harvey/u-root/pkg/ls/fileinfo_unix.go",
+		"/home/graham/Documents/code/harvey/u-root/pkg/ls/fileinfo_plan9.go",
+		"/home/graham/.config/sublime-text-3/Packages/User/golang.sublime-settings",
+		"/home/graham/.config/sublime-text-3/Packages/Gofmt/Gofmt.sublime-settings",
+		"/home/graham/Documents/code/harvey/harvey/rc/bin/termrc.local",
+		"/home/graham/Documents/code/harvey/harvey/rc/bin/termrc",
+		"/home/graham/Documents/code/harvey/harvey/util/GO9PTERM",
+		"/home/graham/Documents/code/harvey/harvey/usr/harvey/lib/profile",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/devenv.c",
+		"/home/graham/Documents/code/harvey/harvey/rc/bin/dontkill",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/bootip.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/booturoot.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/boot.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/man/1/0intro",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/boot.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/local.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/sysconf.json",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/bootcpu.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/aarch64/main.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/boot.h",
+		"/home/graham/Documents/code/harvey/harvey/util/build-img.sh",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/sysfile.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/devsrv.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/settime.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/paq.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/screen.c",
+		"/home/graham/Documents/code/harvey/go/cmd/mksys/mksys.go",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/error.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/systab.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/errstr.h",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/port/dev.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/boot/bootrc.c",
+		"/home/graham/Documents/code/harvey/harvey/acme/bin/source/spout.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/cmd/9pvpxy.c",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/cmd/acpi/irq.c",
+		"/home/graham/Documents/code/harvey/go/cmd/centre/main.go",
+		"/home/graham/Documents/code/harvey/harvey/sys/src/9/amd64/pamap_test.c",
+		"/home/graham/Downloads/pamap1.txt",
+		"/home/graham/Documents/code/harvey/harvey/bootstrap.sh",
+		"/home/graham/Documents/code/harvey/harvey/go.sum",
+		"/home/graham/Downloads/pamap2.txt",
+		"/home/graham/Documents/code/harvey/harvey/cfg/pxe/tftpboot/ipxe",
+		"/home/graham/Documents/code/harvey/harvey/cfg/pxe/tftpboot/default"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".gitignore",
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "seed.zig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"auto_name": "const builtin = @import(\"builtin\");",
+							"syntax": "Packages/Zig Language/Syntaxes/Zig.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gofmt":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "seed.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"qmall",
+				"harvey/sys/src/9/amd64/qmalloc.c"
+			],
+			[
+				"port/fns",
+				"harvey/sys/src/9/port/portfns.h"
+			],
+			[
+				"fns.h",
+				"harvey/sys/src/9/amd64/fns.h"
+			],
+			[
+				"slab",
+				"harvey/sys/src/9/port/slab_test.c"
+			],
+			[
+				"main",
+				"harvey/sys/src/9/amd64/main.c"
+			],
+			[
+				"portdat",
+				"harvey/sys/src/9/port/portdat.h"
+			],
+			[
+				"u.h",
+				"harvey/amd64/include/u.h"
+			],
+			[
+				"multib",
+				"harvey/sys/src/9/amd64/multiboot.c"
+			],
+			[
+				"pamap",
+				"harvey/sys/src/9/amd64/pamap.c"
+			],
+			[
+				"malloc.c",
+				"harvey/sys/src/9/amd64/qmalloc.c"
+			],
+			[
+				"cache.c",
+				"harvey/sys/src/9/port/cache.c"
+			],
+			[
+				"main.c",
+				"harvey/sys/src/9/amd64/main.c"
+			],
+			[
+				"urootrc",
+				"harvey/rc/bin/urootrc"
+			],
+			[
+				"cpurc",
+				"harvey/rc/bin/cpurc"
+			],
+			[
+				"devvg",
+				"harvey/sys/src/9/amd64/devvga.c"
+			],
+			[
+				"u-r",
+				"harvey/sys/src/u-root.json"
+			],
+			[
+				"clea",
+				"harvey/clean.json"
+			],
+			[
+				"devram",
+				"harvey/sys/src/9/port/devramfs.c"
+			],
+			[
+				"mmu.",
+				"harvey/sys/src/9/amd64/mmu.c"
+			],
+			[
+				"pama",
+				"harvey/sys/src/9/amd64/pamap.c"
+			],
+			[
+				"malloc",
+				"harvey/sys/src/9/amd64/qmalloc.c"
+			],
+			[
+				"portfn",
+				"harvey/sys/src/9/port/portfns.h"
+			],
+			[
+				"pam",
+				"harvey/sys/src/9/amd64/pamap.c"
+			],
+			[
+				"u-roo",
+				"harvey/sys/src/u-root.json"
+			],
+			[
+				"ureg.h",
+				"harvey/amd64/include/ureg.h"
+			],
+			[
+				"go9pur",
+				"harvey/util/GO9PUROOT"
+			],
+			[
+				"kernel.l",
+				"harvey/sys/src/9/amd64/kernel.ld"
+			],
+			[
+				"u-root.j",
+				"harvey/sys/src/u-root.json"
+			],
+			[
+				"rcmain",
+				"harvey/rc/lib/rcmain"
+			],
+			[
+				"allb",
+				"harvey/sys/src/9/amd64/allbuild.json"
+			],
+			[
+				"go9pu",
+				"harvey/util/GO9PUROOT"
+			],
+			[
+				"cga",
+				"harvey/sys/src/9/amd64/cga.c"
+			],
+			[
+				"urootr",
+				"harvey/rc/bin/urootrc"
+			],
+			[
+				"uroot go9",
+				"harvey/util/GO9PUROOT"
+			],
+			[
+				"allbui",
+				"harvey/sys/src/9/amd64/allbuild.json"
+			],
+			[
+				"fault.c",
+				"harvey/sys/src/9/port/fault.c"
+			],
+			[
+				"go9pcp",
+				"harvey/util/GO9PCPU"
+			],
+			[
+				"trap",
+				"harvey/sys/src/9/amd64/trap.c"
+			],
+			[
+				"devarch",
+				"harvey/sys/src/9/amd64/devarch.c"
+			],
+			[
+				"multiboo",
+				"harvey/sys/src/9/amd64/multiboot.c"
+			],
+			[
+				"ls.c",
+				"harvey/sys/src/cmd/ls.c"
+			],
+			[
+				"termrc",
+				"harvey/rc/bin/termrc"
+			],
+			[
+				"init.c",
+				"harvey/sys/src/cmd/init.c"
+			],
+			[
+				"go9pt",
+				"harvey/util/GO9PTERM"
+			],
+			[
+				"lib/profi",
+				"harvey/usr/harvey/lib/profile"
+			],
+			[
+				"devenv",
+				"harvey/sys/src/9/port/devenv.c"
+			],
+			[
+				"sysconf js",
+				"harvey/sys/src/sysconf.json"
+			],
+			[
+				"build-im",
+				"harvey/util/build-img.sh"
+			],
+			[
+				"gourt",
+				"harvey/util/GO9PUROOT"
+			],
+			[
+				"systab.",
+				"harvey/sys/src/9/amd64/systab.c"
+			],
+			[
+				"errstr",
+				"harvey/sys/src/9/amd64/errstr.h"
+			],
+			[
+				"error.h",
+				"harvey/sys/src/9/port/error.h"
+			],
+			[
+				".ld",
+				"harvey/sys/src/9/amd64/kernel.ld"
+			],
+			[
+				"go9p",
+				"harvey/util/GO9PUROOT"
+			],
+			[
+				"go uroo",
+				"harvey/util/GO9PUROOT"
+			],
+			[
+				"boot.c",
+				"harvey/sys/src/9/boot/boot.c"
+			],
+			[
+				"irq",
+				"harvey/sys/src/cmd/acpi/irq.c"
+			],
+			[
+				"boots",
+				"harvey/bootstrap.sh"
+			],
+			[
+				"main.c 9",
+				"sys/src/9/amd64/main.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "ROUNDUP",
+		"selected_items":
+		[
+			[
+				"ROUNDUP",
+				"ROUNDUP"
+			],
+			[
+				"panic",
+				"panic"
+			],
+			[
+				"multiboo",
+				"multiboot"
+			],
+			[
+				"umemin",
+				"umeminit"
+			],
+			[
+				"memmove",
+				"memmove"
+			],
+			[
+				"readmem",
+				"readmem"
+			],
+			[
+				"memini",
+				"meminit"
+			],
+			[
+				"K",
+				"KADDR"
+			],
+			[
+				"devopen",
+				"devopen"
+			]
+		],
+		"width": 785.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
